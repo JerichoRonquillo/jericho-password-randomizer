@@ -1,0 +1,1 @@
+# jericho-password-randomizer
